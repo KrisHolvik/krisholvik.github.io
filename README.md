@@ -2,4 +2,4 @@
 **Krzysztof Herman**
 /
 
-remote_theme: Modernist
+remote_theme: pages-themes/modernist@v0.2.0
