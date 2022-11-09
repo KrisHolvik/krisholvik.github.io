@@ -1,3 +1,3 @@
 # Kris Wilczek
 **Krzysztof Herman**
-remote-theme: Modernist
+remote_theme: Modernist
