@@ -1,1 +1,2 @@
-# kriswilczek.github.io
+# Kris Wilczek
+**Krzysztof Herman**
