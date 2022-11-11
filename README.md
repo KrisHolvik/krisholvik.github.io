@@ -1,3 +1,3 @@
-# Kris Wilczek
-**Krzysztof Herman**
+# Kris Herman
+**Junior Java Developer**
 
