@@ -1,9 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo13243
-Fork on GitHub3456
 <h1 align="center">Hi 👋, I'm Kris!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Cognitive sciencist and novice programmer</h3>
 
 - 🌱 I’m currently learning **java**
 
