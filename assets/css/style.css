@@ -11,11 +11,13 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  background-color: #e8eef4;
 }
 
-/*technologies {
-
-}*/
+.technologies {
+  display: flex;
+  justify-content: center;
+} 
 
 
 a {
@@ -56,13 +58,13 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #93b8e0;
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #ffc550;
-  color: #fff;
+  color: #93b8e0;
 }
 
 .back-to-top.active {
@@ -117,7 +119,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 15px;
-  color: #fff;
+  color: #93b8e0;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 12px;
@@ -151,7 +153,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: #93b8e0;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -213,7 +215,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #93b8e0;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -258,7 +260,7 @@ h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #93b8e0;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -289,7 +291,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: #93b8e0;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -353,7 +355,7 @@ h6 {
   margin: 0 0 10px 0;
   font-size: 64px;
   font-family: "Times New Roman", Times, serif;
-  color: #fff;
+  color: #93b8e0;
 }
 
 #hero h2 {
@@ -429,7 +431,7 @@ section {
 }
 
 .section-bg {
-  background-color: white;
+  background-color: #93b8e0;
 }
 
 .section-title {
@@ -719,7 +721,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
+  background: #93b8e0;
   border: 2px solid #82909c;
 }
 
@@ -742,7 +744,7 @@ section {
   text-transform: uppercase;
   color: #444444;
   transition: all 0.3s ease-in-out;
-  border: 2px solid #fff;
+  border: 2px solid #93b8e0;
 }
 
 .portfolio #portfolio-flters li:hover,
@@ -835,7 +837,7 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #93b8e0;
   opacity: 1;
   border: 1px solid #ffb727;
 }
@@ -902,7 +904,7 @@ section {
   color: #ffb727;
   border-radius: 50%;
   padding: 15px;
-  background: #fff6e4;
+  background: #93b8e0;
 }
 
 .contact .info-box h3 {
