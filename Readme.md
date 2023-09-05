@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java**
 
-- 📄 Know about my experiences [kriswilczek.github.io](https://kriswilczek.github.io/) (under construction)
+- 📄 Know about my experiences [kriswilczek.github.io](https://krisholvik.github.io/) (under construction)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
